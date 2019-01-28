@@ -1,0 +1,22 @@
+
+h1{font-size: 200%;
+    font-weight:bolder;
+color: black}
+
+
+
+body {
+    background: lightseagreen;
+Color: black;
+font-size 14px;
+    font-family: 'Lora', serif;
+}
+
+a{display: inline-block;
+    border: 2px solid lightblue;
+padding: 10px;
+color:white;
+margin: 6px;
+text-decoration: none}
+
+a:hover{color: black}
